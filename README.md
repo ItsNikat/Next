@@ -1,2 +1,2 @@
 # Next
-project on Nextjs
+project on Nextjs - I love 🐈‍⬛
